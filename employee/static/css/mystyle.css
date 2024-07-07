@@ -1,0 +1,13 @@
+.nav-link {
+    color: blanchedalmond !important;
+}
+
+.nav-link:hover {
+    color: purple!important;
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
